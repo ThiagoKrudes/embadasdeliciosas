@@ -1,0 +1,61 @@
+#titulo{
+    text-align: center;
+    color: burlywood;
+    background-color:chocolate;
+    padding: 10px;
+    
+    
+
+}#site a{
+    text-decoration: none;
+    color: rgb(183, 140, 13);
+    padding: 5px;
+    
+    
+}#site{
+   text-align: center;
+   background-color: rgb(250, 208, 137);
+   padding: 10px;
+   
+}#empadas{
+    color: rgb(255, 136, 0);
+    background-color: rgb(255, 229, 194);
+    padding: 10px;
+    margin-left: 150px;
+    margin-right: 500px;
+    }#cardapio{
+        color: rgb(255, 136, 0);
+    background-color: rgb(255, 229, 194);
+    padding: 10px;
+    margin-left: 150px;
+    margin-right: 250px;
+    
+    }#empada{
+        color: rgb(255, 136, 0);
+    background-color: rgb(255, 229, 194);
+    padding: 10px;
+    margin-left: 150px;
+    margin-right: 250px;
+    text-align: center;
+    }#vr{
+        color: rgb(255, 136, 0);
+    background-color: rgb(255, 229, 194);
+    padding: 10px;
+    margin-left: 150px;
+    margin-right: 250px;
+    color: black;
+    }#emp{
+        color: rgb(255, 136, 0);
+    background-color: rgb(255, 229, 194);
+    padding: 10px;
+    margin-left: 150px;
+    margin-right: 250px;
+    text-align: center;
+    }#vrs{
+        color: rgb(255, 136, 0);
+        background-color: rgb(255, 229, 194);
+        padding: 10px;
+        margin-left: 150px;
+        margin-right: 250px;
+        color: black;          
+    }
